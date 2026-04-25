@@ -27,10 +27,9 @@ After downloading, please ensure your project hierarchy is organized exactly as 
  ├── 📂 data/
  ├── 📂 code/
  └── 📄 README.md
+```
 
 ## An example of Implementation
-
-Please download the checkpoints at [Google Drive](https://drive.google.com/drive/folders/12OFUuX7a5v7khx_MZiel04N0x5prkdGy?usp=drive_link), and put them in the path of "checkpoints/".
 
 1. **Full Model**
 ```
