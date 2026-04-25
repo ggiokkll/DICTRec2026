@@ -1,0 +1,19 @@
+# 排除所有模型权重和检查点
+checkpoints/
+*.pth
+*.bin
+*.json  # 如果数据文件夹里有很多 json，建议也排除
+
+# 排除 IDE 配置
+.idea/
+.vscode/
+
+# 排除 Python 缓存
+__pycache__/
+*.pyc
+
+# 排除数据集（如果有的话）
+data/
+
+src/
+t5-small
