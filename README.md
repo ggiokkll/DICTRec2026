@@ -6,6 +6,20 @@
 [![Paper](https://img.shields.io/badge/Paper-PDF-red)]()
 [![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/ggiokkll/DICTRec2026/blob/main/LICENSE)
 
+## P
+
+Please download the necessary weights, including our pre-trained checkpoints and the `t5-small` backbone model, from [Google Drive](https://drive.google.com/file/d/1zcMJGZJoo1b6VVJcIUKF1Z-42ih0g-ED/view?usp=drive_link). After downloading, please put all contents into the `checkpoints/` directory.
+
+Your directory structure should look like this:
+DICTRec/
+├── checkpoints/
+│   ├── backbone/
+│   └── vq/
+├── code/
+├── data/
+├── src/
+│   ├── t5-small/
+│   └── lgn/
 
 
 ## An example of Implementation
